@@ -1,0 +1,62 @@
+# The following are required
+#
+# - authors: eugene wu, super man
+#   conf: SIGMOD 2016
+#   tags:
+#   - vis
+#   title: Title of the paper
+#   url: url to the paper
+#
+# The following are optional
+#
+#   slides: URL to slides
+#   code: URL to code/github
+#   comments: any comments
+#
+#
+# Project specific tags are fine as well.  For instance, precision interfaces has a custom "pi" tag
+#
+
+#- title: 'Physical Visualization Design'
+#  future: true
+#  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
+#  conf: VLDB 2022 (in progress)
+#
+- title: 'FaDE: More Than a Million What-ifs Per Second'
+  authors: Haneen Mohammed, Alexander Yao, Lampros Flokas, Charlie Summers, Hongbin Zhong, Gramit Chan, Surata Mitra, Eugene Wu
+  future: true
+  conf: In Review 2024
+  tags:
+ 
+- title: 'SET: Searching Effective Supervised Learning Augmentations in Large Tabular Data Repositories'
+  authors: Jerry Liu, Zachary Huang, Eugene Wu
+  conf: GUIDEAI Workshop at SIGMOD 2024
+  url: https://www.dropbox.com/scl/fi/61djqidstld7r64zp70rb/kitana-SET-guideai24.pdf?rlkey=uogmb42ma4ok2u1kdvohiv689&dl=0
+  tags:
+    - db
+    - ml
+- title: 'Lightweight Materialization for Fast Dashboards Over Joins '
+  authors: Zachary Huang, Eugene Wu
+  conf: SIGMOD 2024
+  url: https://arxiv.org/abs/2210.03851
+  tags:
+    - db
+    - ml
+
+- title: "The Fast and the Private: Task-based Dataset Search"
+  authors: Zezhou Huang, Jiaxiang Liu, Haonan Wang, Eugene Wu
+  conf: CIDR 2024
+  url: https://arxiv.org/pdf/2308.05637.pdf
+  slides: https://www.dropbox.com/scl/fi/y24uesql0j0t74tn02hd9/2024-01-CIDR-Mileena.pdf?rlkey=qiwk8n0ef0ggg2p2xa3aa8z0z&dl=0
+  selected: true
+  tags:
+    - db
+    - ml
+- title: "Saibot: A Differentially Private Data Search Platform"
+  authors: Zezhou Huang, Jiaxiang Liu, Daniel Alabi, Raul Castro Fernandez, Eugene Wu
+  conf: VLDB 2023
+  url: https://arxiv.org/abs/2307.00432
+  tags:
+    - db
+    - ml
+
