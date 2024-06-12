@@ -1,6 +1,6 @@
 ---
 layout: project
-color: "#64bd78"
+color: "#b56d3d"
 logo: Linear Algebra Operators in Databases to Support Analytic and Machine-Learning Workloads
 ---
 
