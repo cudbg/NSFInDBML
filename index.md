@@ -22,6 +22,7 @@ MARQUE will be a database management system that supports machine learning primi
 
 ## Open Source Software
 
+* [Differentially Private Dataset Search for AutoML Tasks](https://github.com/cudbg/Saibot)
 * [JoinBoost: A Python-based In-DB Tree Training Library](https://joinboost.readthedocs.io/en/latest/app.html)
 
 <!--## Galleries and Tutorials

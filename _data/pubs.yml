@@ -22,10 +22,54 @@
 #  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
 #  conf: VLDB 2022 (in progress)
 #
+- title: "Lineage Capture Trade-offs: A Case Study in DuckDB"
+  authors: Haneen Mohammed, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  hide: true
+  future: true
+  short: true
+  tags:
+    - db
+- title: "DEMO: Fast Hypothetical Update Evaluation"
+  authors: Haneen Hohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gramit Yeuk-Yin Chan, Subrata Mitra, Lampros Flokas, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  short: true
+  hide: true
+  future: true
+  tags:
+    - db
+    - vis
+- title: Compression for High-Performance Lineage
+  authors: Xiaoyu Han, Haneen Mohammed, Charlie Summers, Eugene Wu
+  conf: ProvWeek at SIGMOD 2025
+  short: true
+  hide: true
+  future: true
+  tags:
+    - db
+- title: 'Suna: Scalable Causal Confounder Discovery over Relational Data'
+  url: "https://www.dropbox.com/scl/fi/oqr84we82yvl3a1qpwo0n/suna-vldb25-submitted.pdf?rlkey=uz3ztnvfsk953kjj9vs6h4tzb&dl=0"
+  conf: VLDB  2025
+  authors: Jiaxiang Liu, Siyuan Xia, Daniel Alabi, Eugene Wu
+  selected: true
+  tags:
+    - db
+    - ml
+    - datasearch
+    - ci
+- title: 'Tutorial: Privacy and Security in Distributed Data Markets'
+  authors: Daniel Alabi, Sainyam Galhotra, Shagufta Mehnaz, Zeyu Song, Eugene Wu
+  url: https://eprint.iacr.org/2025/724
+  code: https://dacesresearch.org/tutorials/sigmod2025/
+  short: true
+  conf: SIGMOD 2025 tutorial
+  tags:
+    - db
+
 - title: 'FaDE: More Than a Million What-ifs Per Second'
   authors: Haneen Mohammed, Alexander Yao, Lampros Flokas, Charlie Summers, Hongbin Zhong, Gramit Chan, Surata Mitra, Eugene Wu
   future: true
-  conf: In Review 2024
+  conf: VLDB 2025
   tags:
  
 - title: 'SET: Searching Effective Supervised Learning Augmentations in Large Tabular Data Repositories'
