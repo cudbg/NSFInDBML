@@ -22,6 +22,10 @@ MARQUE will be a database management system that supports machine learning primi
 
 ## Open Source Software
 
+* [BranchBench](https://github.com/ElaineAng/db-fork)
+* [LakeAgent](https://daplab.cs.columbia.edu/projects/lakeagent/)
+* LakeQA [benchmark](https://github.com/lakeagent/datalake-qa)  and [Leaderboard](https://lakeqa-bench.github.io/)
+* [Data Flow Control](https://dataflowcontrol.github.io/data-flow-control/) and [Github](https://github.com/dataflowcontrol/data-flow-control)
 * [Differentially Private Dataset Search for AutoML Tasks](https://github.com/cudbg/Saibot)
 * [JoinBoost: A Python-based In-DB Tree Training Library](https://joinboost.readthedocs.io/en/latest/app.html)
 

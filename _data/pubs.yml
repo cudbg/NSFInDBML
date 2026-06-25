@@ -22,6 +22,77 @@
 #  authors: Lana Ramjit, Subrata Mitra, Ravi Netravali, Eugene Wu
 #  conf: VLDB 2022 (in progress)
 #
+
+
+- title: "Data Flow Control: Data Safety Policies for AI Agents"
+  authors: Charlie Summers, Eugene Wu
+  url: https://arxiv.org/abs/2606.05679
+  conf: ArXiV 2026
+  selected: true
+  show: true
+  tags:
+    - ai
+    - ml
+    - llm
+    - db
+
+- title: "SANA: What Matters for QA Agents over Massive Data Lakes?"
+  authors: Austin Senna Wijaya, Jiaxiang Liu, Haonan Wang, Eugene Wu
+  conf: arXiv 2026
+  pub_date: "2026-06-01"
+  url: https://arxiv.org/abs/2606.13904
+  tags:
+    - ai
+    - sys
+    - bench
+    - datasearch
+
+- title: "Law-Abiding Agents: Demonstrating Safe Tax Preparation with Data Flow Control"
+  authors: Charlie Summers, Prajwal Raghunath, Zhibin Shen, Hardik Gupta, Eric Choi, Mayur Kulkarni, Sally Go, Peter Yu, Akriti Agarwal, Zhuo Zhang, Oliver Kennedy, Eugene Wu
+  future: true
+  short: true
+  conf: preprint 2026
+- title: "LAKEQA: An Exploratory QA Benchmark over a Million-Scale Data Lake"
+  authors: Haonan Wang*, Jerry Liu*, Yurong Liu, Austin Senna Wijaya, Tianle Zhou, Eden Wu, Yijia Chen, Wanting You, Reya Vir, Daniela Pinto Veizaga, Grace Fan, Yusen Zhang, Juliana Freire, Eugene Wu
+  selected: true
+  show: true
+  conf: ICML 2026
+  url: https://arxiv.org/abs/2606.10460
+  tags:
+    - db
+    - llm
+    - ai
+    - datasearch
+- title: "BranchBench: Aligning Database Branching with Agentic Demands"
+  authors: Elaine Ang, In Keun Kim, Sam Weldon, Kevin Durand, Kostis Kaffes, Eugene Wu
+  show: true
+  future: true
+  url: https://arxiv.org/abs/2604.17180
+  conf: ArXiv 2026
+  tags:
+    - ai
+    - llm
+    - db
+
+- title: "BranchBench: An Extensible Benchmark for Agentic Database Branching"
+  authors: Elaine Ang, Kostis Kaffes, Eugene Wu
+  conf: CAIS Workshop 2026
+  url: https://bauplanlabs.github.io/SAO-workshop/papers/37.pdf
+  pub_date: "2026-07-01"
+  tags:
+    - ai
+    - sys
+    - bench
+
+
+- title: "Please Don’t Kill My Vibe: Empowering Agents with Data Flow Control"
+  authors: Charlie Summers, Haneen Mohammed, Eugene Wu
+  url: https://arxiv.org/abs/2512.05374
+  conf: CIDR 2026
+  slides: https://www.dropbox.com/scl/fi/ynttvmwx8poaobbq57wxr/2026-01-dfc-cidr.pdf?rlkey=yckv9ofa2iyaykmfu2su564wl&st=al38d6dm&dl=0
+ 
+
+
 - title: "Lineage Capture Trade-offs: A Case Study in DuckDB"
   authors: Haneen Mohammed, Eugene Wu
   conf: ProvWeek at SIGMOD 2025
