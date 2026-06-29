@@ -23,6 +23,15 @@
 #  conf: VLDB 2022 (in progress)
 #
 
+- title: 'SPALM: A Sparsity-Pattern-Adaptive Library for Matrices'
+  authors: Junyoung Kim, Kenneth Ross
+  conf: SIGMOD 2026
+  url: https://dl.acm.org/doi/10.1145/3802113
+  selected: true
+  show: true
+  tags:
+    - db
+    - ml
 
 - title: "Data Flow Control: Data Safety Policies for AI Agents"
   authors: Charlie Summers, Eugene Wu
@@ -91,7 +100,12 @@
   conf: CIDR 2026
   slides: https://www.dropbox.com/scl/fi/ynttvmwx8poaobbq57wxr/2026-01-dfc-cidr.pdf?rlkey=yckv9ofa2iyaykmfu2su564wl&st=al38d6dm&dl=0
  
-
+- title:  'A Data Aggregation Visualization System supported by Processing-in-Memory.'
+  authors: Junyoung Kim, Madhulika Balakumar, Kenneth Ross
+  url: https://arxiv.org/abs/2503.08463
+  conf: Sixteenth International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures (ADMS at VLDB 2025)
+  selected: true
+  show: true
 
 - title: "Lineage Capture Trade-offs: A Case Study in DuckDB"
   authors: Haneen Mohammed, Eugene Wu
